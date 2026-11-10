@@ -1,0 +1,7 @@
+/target
+**/*.rs.bk
+*.gcode
+.DS_Store
+*.bak
+PROJECT_MAP.md
+
